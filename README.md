@@ -2,7 +2,7 @@
 
 [**Cancer-Related Positions**](#cancer-related-positions)
 
-[**Data Science/Data Engineer/Text-Mining Related Positions**](#data-science/data-engineer/text-mining-related-positions)
+[**Biocuration & Data Engineer Related Positions**](#biocuration-&-data-engineer-related-positions)
 
 # Cancer-Related Positions
 
