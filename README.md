@@ -8,7 +8,7 @@
 
 ## ***Job Title***
 
-Cancer Computational Biologist in the Luna Lab (NLM/NCI) (Postdoctoral Fellow)
+Cancer Computational Biologist (Luna Lab, NLM/NCI) (Postdoctoral Fellow)
 
 ## 
 
@@ -16,11 +16,11 @@ Cancer Computational Biologist in the Luna Lab (NLM/NCI) (Postdoctoral Fellow)
 
 The Luna lab is jointly affiliated with the National Library of Medicine (NLM) and the National Cancer Institute (NCI). The dual ambitions of the lab are to make biomedical data and information accessible, as well as, to advance cancer research that helps people live longer, healthier lives. We seek outstanding, highly motivated, and skilled candidates to join our team with the goal of advancing novel cancer therapeutic strategies. 
 
-This position offers a unique opportunity to contribute collaboratively to cutting-edge research in the field of cancer therapeutics and precision medicine that spans both basic and translational science objectives. The successful candidates will develop novel bioinformatic machine learning methodologies to: 1\) explore cancer-specific genomic, epigenetic, and metabolic alterations, molecular systems pharmacology, and network biology and 2\) understand molecular mechanisms of drug response and drug resistance to achieve precision medicine. These strategies will aim to understand the fundamental rules for how cells respond to external perturbation. In addition, selected applicants will have the opportunity to contribute to the translational clinical program of the NCI, aiming to support clinical decision-making by exploring cancer heterogeneity using both pre-clinical models (e.g., cell lines, patient-derived xenografts, organoids) and patient datasets, identifying biomarkers and pinpointing the molecular determinants of response to cancer therapy. 
+This position offers a unique opportunity to contribute collaboratively to cutting-edge research in the field of cancer therapeutics and precision medicine that spans both basic and translational science objectives. The successful candidates will develop novel bioinformatic machine learning methodologies to: 1\) explore cancer-specific genomic, epigenetic, and metabolic alterations, molecular systems pharmacology, and network biology and 2\) understand molecular mechanisms of drug response and drug resistance to achieve precision medicine. These strategies will aim to understand the fundamental rules for how cells respond to external perturbation. In addition, selected applicants will have the opportunity to contribute to the translational clinical program of the NCI, aiming to support clinical decision-making by exploring cancer heterogeneity using both pre-clinical models (e.g., cell lines, patient-derived xenografts, organoids) and patient datasets, as well as, identifying biomarkers and molecular determinants of response to cancer therapy. 
 
 ## 
 
-We are offering full-time postdoctoral fellow positions, available immediately and renewable on a yearly basis. The NIH offers a competitive salary and comprehensive health insurance. Initial appointments will be for 1-2 year(s), with possible extensions up to 5 years. The NIH is dedicated to building a diverse community in its training and employment programs as well as the continued education and career development of all its research staff. These positions are subject to background checks.
+We are offering full-time postdoctoral fellow positions, available immediately and renewable on a yearly basis. The NIH offers a competitive salary and comprehensive health insurance. Initial appointments will be for 1 year, with possible extensions up to 5 years. These positions are subject to background checks.
 
 ### Related Articles
 
@@ -33,8 +33,9 @@ We are offering full-time postdoctoral fellow positions, available immediately a
 
 ### Essential 
 
-* PhD in a relevant field, including: Statistics, Mathematics, Data Science, Physics, Engineering, or Computer Science, or a degree related to Biology with substantial experience in computational and statistical work. Individuals in the final stages of PhD submission will be considered as well as PhD graduates within 5 years of graduation.   
-* Strong knowledge and experience in coding (R/Python or similar languages; the lab has a significant, existing codebase in R)  
+* PhD in a field relevant to biomedicine, including: Bioinformatics, Biomedical Engineering, Mathematics, Data Science, Physics, or Computer Science, or a degree related to Biology with substantial experience in computational and statistical work. Individuals in the final stages of PhD submission will be considered as well as PhD graduates within 5 years of graduation  
+* Prior and demonstrated experience in cancer research  
+* Strong knowledge and experience in coding (R/Python or similar languages)  
 * Prior and demonstrated experience analyzing \-omics data (e.g., RNAseq, copy number, mutation, methylation, proteomics)  
 * Technical expertise in machine learning and/or mathematical modeling   
 * An interest in applying computational methods to biological problems   
@@ -46,11 +47,10 @@ We are offering full-time postdoctoral fellow positions, available immediately a
 
 * Foundational knowledge in Bioinformatics, Systems Biology, and/or similar fields  
 * Foundational knowledge in Mathematics, Statistics, and/or Data Science   
-* Familiarity with software development practices and high-performance computing   
-* Experience with machine learning frameworks (Pytorch/Tensorflow or similar)   
-* Experience with mass spectrometry-based proteomics data analysis is highly desirable  
-* Experience with using network-based analyses (graph theory) and software/resources (graph and/or pathway databases) is highly desirable  
-* Experience with single-cell data analysis is highly desirable  
+* Familiarity with software development practices  
+* Experience with machine learning frameworks (Pytorch or similar)   
+* Experience with using network-based analyses (graph theory) and software/resources (graph and/or pathway databases) is desirable  
+* Experience with single-cell data analysis is desirable  
 * Experience working in collaborative interdisciplinary environments
 
 ## ***Apply for this vacancy***
@@ -59,12 +59,12 @@ We are offering full-time postdoctoral fellow positions, available immediately a
 
 Please send
 
-* Cover letter (1 page max) describing your 1\) research experiences, 2\) training goals, and 3\) preferred starting date. The letter should be tailored to our group, mentioning projects or articles of the group of interest and explaining your potential role with the lab.  
+* Cover letter (1 page max) describing your 1\) research experiences, 2\) training goals, and 3\) preferred starting date. Mention projects or articles of the Luna group of interest and explain your potential role  
 * Updated CV including bibliography  
-* It is strongly suggested that links to a code repository URL(s) be included on your CV with code attributable to the applicant  
+* It is suggested that links to a code repository URL(s) be included in your application with code attributable to the applicant  
 * Contact information (name, institute, email, phone) for 3 references 
 
-to Augustin Luna, Ph.D., via email only. No calls, please. Write "Postdoctoral Application" in the subject heading. If we are interested, you will be contacted by Dr. Luna.
+to Augustin Luna, Ph.D., via email. Write "Postdoctoral Application" in the subject heading. If we are interested, you will be contacted by Dr. Luna.
 
 ### 
 
@@ -78,16 +78,12 @@ Augustin Luna
 
 [augustin@nih.gov](mailto:augustin@nih.gov)
 
-## ***Additional Information***
-
-The NIH is dedicated to building a diverse community in its training and employment programs and encourages the application and nomination of qualified women, minorities, and individuals with disabilities.
-
 ### Additional Links
 
 * [https://ccr.cancer.gov/staff-directory/augustin-luna](https://ccr.cancer.gov/staff-directory/augustin-luna)  
 * [https://www.nlm.nih.gov/research/researchstaff/LunaAugustin.html](https://www.nlm.nih.gov/research/researchstaff/LunaAugustin.html)   
 * Google Scholar: [https://scholar.google.com/citations?user=u2dgLp8AAAAJ\&sortby=pubdate](https://scholar.google.com/citations?user=u2dgLp8AAAAJ&sortby=pubdate)    
-* Summary of NIH as a Training Environment (Reputation, Cost of Living, Social Climate): [https://github.com/cannin/nih](https://github.com/cannin/nih)
+* Summary of NIH as a Training Environment (Salary, Reputation, Cost of Living, Social Climate): [https://github.com/cannin/nih](https://github.com/cannin/nih)
 
 ### About the NLM
 
@@ -103,7 +99,7 @@ The National Cancer Institute Center for Cancer Research (NCI-CCR, [https://ccr.
 
 ## ***Job Title***
 
-Data Science/Data Engineer/Computational Researcher in the Luna Lab (NLM/NCI) (Postdoctoral Fellow)
+AI/Biocuration Computational Researcher (Luna Lab, NLM/NCI) (Postdoctoral Fellow)
 
 ## 
 
@@ -111,11 +107,11 @@ Data Science/Data Engineer/Computational Researcher in the Luna Lab (NLM/NCI) (P
 
 The Luna lab is jointly affiliated with the National Library of Medicine (NLM) and the National Cancer Institute (NCI). The dual ambitions of the lab are to make biomedical data and information accessible, as well as, to advance cancer research that helps people live longer, healthier lives. We seek outstanding, highly motivated, and skilled candidates to join our team with the goal of understanding how researchers interpret large data sets and enable them to explore and gain insight from data sets through interactive systems to advance healthcare. 
 
-This position offers a unique opportunity to push beyond the traditional scope of data extraction, management, and analysis techniques to address the new challenges of large-scale, heterogeneous data. The group combines expertise in data management, visualization, information retrieval, and network data, and we will work in areas of data integration, data uncertainty, data summarization, visual analytics using both visualization (e.g., statistical graphs and networks) and machine learning to explore novel assistive interfaces and data query methods that leverage large language models (LLMs) and vision (multimodal) models. Through this work, selected applicants will contribute collaboratively to research in the field of cancer therapeutics and precision medicine that spans both basic and translational research objectives as well as analysis of collected datasets with machine learning techniques. Successful candidates will develop novel bioinformatic machine learning methodologies in the areas of: 1\) multimodal (i.e., textual and visual) summarization of pharmacogenomics datasets, 2\) structuring complex scientific information from unstructured manuscript data (e.g., text, supplementary data, experimental protocols, images) and 3\) retrieval-augmented generation for LLM-backed agents for information retrieval from cancer-related multi-omics datasets.
+This position offers a unique opportunity to push beyond the traditional scope of data extraction and management techniques to address the new challenges of large-scale, heterogeneous data. The group combines expertise in data management, visualization, information retrieval, and network data. The candidate will work in areas of data integration, data uncertainty, data summarization, to explore data query methods that leverage multimodal vision large language models (vLLMs). Through this work, selected applicants will contribute collaboratively to research in the field of cancer therapeutics and precision medicine that spans both basic and translational science objectives. Successful candidates will develop novel bioinformatic machine learning methodologies in the areas of: 1\) multimodal data summarization from pharmacogenomics and clinical notes datasets, 2\) structuring complex scientific information from unstructured manuscript data (e.g., supplementary data, experimental protocols, images) and 3\) retrieval-augmented generation for LLM-backed agents for information gathering from cancer-related multi-omics datasets.
 
 ## 
 
-We are offering full-time postdoctoral fellow positions, available immediately and renewable on a yearly basis. The NIH offers a competitive salary and comprehensive health insurance. Initial appointments will be for 1-2 year(s), with possible extensions up to 5 years. The NIH is dedicated to building a diverse community in its training and employment programs as well as the continued education and career development of all its research staff. These positions are subject to background checks.
+We are offering full-time postdoctoral fellow positions, available immediately and renewable on a yearly basis. The NIH offers a competitive salary and comprehensive health insurance. Initial appointments will be for 1-2 year(s), with possible extensions up to 5 years. These positions are subject to background checks.
 
 ### Recent Articles
 
@@ -127,11 +123,9 @@ We are offering full-time postdoctoral fellow positions, available immediately a
 
 ### Essential 
 
-* PhD in a relevant field, including: Statistics, Mathematics, Data Science, Computer Science/Engineering, Electrical Engineering, Medical Informatics, or a degree related to Biology with substantial experience in computational and statistical work. Individuals in the final stages of PhD submission will be considered as well as PhD graduates within 5 years of graduation.   
-* Excellent knowledge of theory and practice of LLM and foundation model, as well as deep learning neural networks  
-* Excellent coding skills in modeling and conversational interface design for real-time interaction (e.g., PyTorch/TensorFlow and Python proficiency)  
-* Rapid prototyping environment such as Python; C++ and parallel programming (e.g., CUDA)  
-* Experience multimodal generative language models, personalized LLM, and/or fine-tuning LLMs with/for reinforcement learning planning   
+* PhD in a relevant field, including: Bioinformatics, Biomedical Engineering, Mathematics, Data Science, Computer Science, Medical Informatics, or a degree related to Biology with substantial experience in computational and statistical work. Individuals in the final stages of PhD submission will be considered as well as PhD graduates within 5 years of graduation.   
+* Knowledge of theory and practice of LLM and foundation models, as well as deep learning neural networks  
+* Strong knowledge and experience in coding (R/Python or similar languages)  
 * Technical expertise in machine learning and/or mathematical modeling   
 * An interest in applying computational methods to biological problems   
 * A demonstrated ability to generate and pursue independent research ideas   
@@ -140,11 +134,12 @@ We are offering full-time postdoctoral fellow positions, available immediately a
 
 ### Desirable 
 
-* Ph.D. thesis in neural conversational systems or closely related area  
 * Foundational knowledge in Bioinformatics, Systems Biology, and/or similar fields  
 * Foundational knowledge in Mathematics, Statistics, and/or Data Science   
-* Familiarity with software development practices and high-performance computing   
-* Experience with analysis using the R programming language (the lab has a significant, existing codebase in R)   
+* Familiarity with software development practices  
+* Experience in conversational interface design for real-time interaction   
+* Experience multimodal generative language models, personalized LLM, and/or fine-tuning LLMs with/for reinforcement learning planning  
+* Experience with analysis using the R programming language  
 * Experience with using network-based analyses (graph theory) and software/resources (graph and/or pathway databases) is highly desirable  
 * Experience with biomedical ontologies  
 * Development and execution of annotation tasks with teams of experts  
@@ -156,12 +151,12 @@ We are offering full-time postdoctoral fellow positions, available immediately a
 
 Please send
 
-* Cover letter (1 page max) describing your 1\) research experiences, 2\) training goals, and 3\) preferred starting date. The letter should be tailored to our group, mentioning recent articles and explaining your potential role with the lab  
+* Cover letter (1 page max) describing your 1\) research experiences, 2\) training goals, and 3\) preferred starting date. Mention projects or articles of the Luna group of interest and explain your potential role  
 * Updated CV including bibliography  
-* It is strongly suggested that links to a code repository URL(s) be included on your CV with code attributable to the applicant  
+* It is suggested that links to a code repository URL(s) be included in your application with code attributable to the applicant  
 * Contact information (name, institute, email, phone) for 3 references 
 
-to Augustin Luna, Ph.D., via email only. No calls, please. Write "Postdoctoral Application" in the subject heading. If we are interested, you will be contacted by Dr. Luna.
+to Augustin Luna, Ph.D., via email. Write "Postdoctoral Application" in the subject heading. If we are interested, you will be contacted by Dr. Luna.
 
 ### 
 
@@ -175,16 +170,12 @@ Augustin Luna
 
 [augustin@nih.gov](mailto:augustin@nih.gov)
 
-## ***Additional Information***
-
-The NIH is dedicated to building a diverse community in its training and employment programs and encourages the application and nomination of qualified women, minorities, and individuals with disabilities.
-
 ### Additional Links
 
 * [https://ccr.cancer.gov/staff-directory/augustin-luna](https://ccr.cancer.gov/staff-directory/augustin-luna)  
 * [https://www.nlm.nih.gov/research/researchstaff/LunaAugustin.html](https://www.nlm.nih.gov/research/researchstaff/LunaAugustin.html)   
 * Google Scholar: [https://scholar.google.com/citations?user=u2dgLp8AAAAJ\&sortby=pubdate](https://scholar.google.com/citations?user=u2dgLp8AAAAJ&sortby=pubdate)    
-* Summary of NIH as a Training Environment (Reputation, Cost of Living, Social Climate): [https://github.com/cannin/nih](https://github.com/cannin/nih)
+* Summary of NIH as a Training Environment (Salary, Reputation, Cost of Living, Social Climate): [https://github.com/cannin/nih](https://github.com/cannin/nih)
 
 ### About the National Institutes of Health (NIH)
 
