@@ -4,7 +4,7 @@
 
 [**Data Science/Data Engineer/Text-Mining Related Positions**](#data-science/data-engineer/text-mining-related-positions)
 
-# **Cancer-Related Positions** (#cancer-related-positions)
+# Cancer-Related Positions
 
 ## ***Job Title***
 
@@ -99,7 +99,7 @@ The National Library of Medicine (NLM, [https://www.nlm.nih.gov/research/index.h
 
 The National Cancer Institute Center for Cancer Research (NCI-CCR, [https://ccr.cancer.gov/](https://ccr.cancer.gov/)) is the largest division of the NCI; it encompasses various branches such as the NCI Developmental Therapeutics Branch. The NCI CCR has a mandate to confront the special challenges presented by rare cancers as well as cancers that may be predominant in medically underserved populations. One way in which the NCI CCR addresses this mandate is by conducting clinical trials that recruit patients with rare cancers thereby generating unique data to advance research in these cancers. While rare cancers affect low numbers of patients, as a group, they account for about a quarter of all cancers, as well as a quarter of all cancer deaths each year ([https://www.cancer.gov/pediatric-adult-rare-tumor/rare-tumors/about-rare-cancers](https://www.cancer.gov/pediatric-adult-rare-tumor/rare-tumors/about-rare-cancers)).
 
-# **Data Science/Data Engineer/Text-Mining Related Positions** (#data-science/data-engineer/text-mining-related-positions)
+# Data Science/Data Engineer/Text-Mining Related Positions
 
 ## ***Job Title***
 
